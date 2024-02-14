@@ -1,0 +1,44 @@
+HTML {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: lightblue;
+  font-family: fantasy;
+  
+}
+p {
+  padding: 4px;
+  font-style: Verdana;
+  font-family: cursive;
+  
+}
+
+h1{
+  font-family: monospace ;
+  color: blue;
+  font-size: 25px
+
+}
+h2{ 
+  font-family:monospace;
+  font-size: 25px;
+
+  
+}
+
+img{ 
+  border-style: outset;
+  float: right;
+  width: 200px;
+  margin: 8px;
+  border-color: gold;
+  border-width: 4px;
+  border-radius: 8px;
+
+  
+}
+
+
+  
